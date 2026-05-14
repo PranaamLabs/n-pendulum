@@ -24,8 +24,8 @@ If you want to run the code on your own machine:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/PranaamLabs/n-pendulum](https://github.com/PranaamLabs/n-pendulum)
-    cd n-pendulum-rust
+    git clone https://github.com/PranaamLabs/n-pendulum
+    cd n-pendulum/n-pendulum-rust
     ```
 
 2.  **Run the server**
