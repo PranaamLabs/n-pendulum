@@ -1,4 +1,4 @@
-# n-pendulum-rust
+# n-pendulum-simulation
 
 A high-performance physics engine for simulating N-coupled pendulums, built with Rust and Lagrangian mechanics.
 
